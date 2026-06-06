@@ -1,8 +1,8 @@
-# Guessing Game: [Chapter 2] (https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+# Guessing Game: [Chapter 2](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
 
 A short, console-based game built in Rust where the player tries to guess a randomly generated number between 1 and 100. This project covers core Rust fundamentals from Chapter 2 of the official Rust book.
 
-## Key Rust Concepts in this chapter
+## Key Rust concepts in this chapter
 
 ### 1. Library Imports (`use`)
 * `std::io`: Handles user input and console output.
